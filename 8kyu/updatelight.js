@@ -11,3 +11,5 @@ function updateLight(current) {
       return "invalid input";
     }
   }
+
+  celcius=;
